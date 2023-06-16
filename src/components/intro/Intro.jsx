@@ -17,7 +17,7 @@ const Intro = () => {
                     </div>
                 </div>
                 <p className="i-desc">
-                    I develop websites for businesses and companies! I develop websites for businesses and companies! I develop websites for businesses and companies!
+                    I develop websites for businesses and companies! Hit me up!
                 </p>
             </div>
             <svg
