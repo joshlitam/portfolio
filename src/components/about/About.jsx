@@ -17,7 +17,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Enjoys playing video games and exploring different types of cuisines. Big fan of Japanese light novels such as Re:Zero, Classroom of the Elite, Dan Machi.
+          Freelance web developer focusing on full-stack development. Experienced in MERN stack as well as front-end frameworks such as Bootstrap, Tailwind, and MUI. Enjoys playing video games and exploring different types of cuisines. Big fan of Japanese light novels such as Re:Zero, Classroom of the Elite, Dan Machi.
         </p>
         <h2 className="a-work">Most Recent Work Experience</h2>
         <div className="a-award">
