@@ -6,13 +6,8 @@ export const products = [
     },
     {
       id: 2,
-      img: "https://github.com/joshlitam/qr-code/blob/main/images/finished-picture.png?raw=true",
-      link: "https://github.com/joshlitam/qr-code",
-    },
-    {
-      id: 3,
-      img: "https://raw.githubusercontent.com/joshlitam/profile-card-component/main/images/desktop.png",
-      link: "https://github.com/joshlitam/profile-card-component",
+      img: "https://github-production-user-asset-6210df.s3.amazonaws.com/74515811/247041562-4393dab4-4fa0-428e-b39d-c8df1132d28a.png",
+      link: "https://sky-hotel-test-2.onrender.com/",
     },
     {
         id: 4,
