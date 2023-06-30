@@ -40,7 +40,7 @@ const Contact = () => {
                     <img src={Email} alt="" className="c-icon" /> joshua_litam@yahoo.com
                 </div>
                 <div className="c-info-item">
-                    <img src={Address} alt="" className="c-icon" /> Susana Heights Muntinlupa City
+                    <img src={Address} alt="" className="c-icon" /> <a href="https://github.com/joshlitam">https://github.com/joshlitam</a>
                 </div>
             </div>
         </div>
