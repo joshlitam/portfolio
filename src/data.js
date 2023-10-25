@@ -6,7 +6,7 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://github-production-user-asset-6210df.s3.amazonaws.com/74515811/247041562-4393dab4-4fa0-428e-b39d-c8df1132d28a.png",
+    img: "https://raw.githubusercontent.com/joshlitam/portfolio/main/src/img/skyhotelpampanga.png",
     link: "https://sky-hotel-test-2.onrender.com/",
   },
   {
