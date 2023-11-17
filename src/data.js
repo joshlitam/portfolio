@@ -2,7 +2,7 @@ export const products = [
   {
     id: 1,
     img: "https://raw.githubusercontent.com/joshlitam/Big-Joe-Inc/main/public/img/bigjoeinc.png",
-    link: "https://github.com/joshlitam/Big-Joe-Inc",
+    link: "https://www.bigjoeinc.com",
   },
   {
     id: 2,
